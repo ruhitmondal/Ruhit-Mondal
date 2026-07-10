@@ -55,13 +55,13 @@ An ESP32-S3 based Smart Aquarium Monitoring and Automation System designed to au
 
 ## Block Diagram
 
-![Block Diagram](BlockDiagram.jpeg)
+![Block Diagram](BlockDiagram.png)
 
 ---
 
 ## Circuit Diagram
 
-![Circuit](Circuit.jpeg)
+![Circuit](Circuit.png)
 
 ---
 
