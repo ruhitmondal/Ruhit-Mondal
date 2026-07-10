@@ -145,6 +145,20 @@ Repeat
 ```
 
 ---
+# 🔌 ESP32 Pin Configuration
+
+| Component | GPIO |
+|-----------|------|
+| DS18B20 | GPIO 4 |
+| pH Sensor | GPIO 5 |
+| Ultrasonic Trigger | GPIO 6 |
+| Ultrasonic Echo | GPIO 7 |
+| RTC SDA | GPIO 8 |
+| RTC SCL | GPIO 9 |
+| Water Pump Relay | GPIO 11 |
+| Water OUT Relay | GPIO 12 |
+| Oxygen Pump Relay | GPIO 13 |
+| Servo Motor | GPIO 16 |
 
 # 📂 Repository Structure
 
